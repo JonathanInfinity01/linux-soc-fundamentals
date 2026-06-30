@@ -252,7 +252,9 @@ sudo -l
 ## Author
 
 **Jonatan Alexander Guerrero Gomez**
-Network Operations Specialist transitioning into Cybersecurity/SOC                        
+
+Network Operations Specialist transitioning into Cybersecurity/SOC
+
 Github: [@JonathanInfinity01](https://github.com/JonathanInfinity01)                        
 
 *Continuously updated as I progress through Linux Foundation (LFS101) and SOC studies.*                      
